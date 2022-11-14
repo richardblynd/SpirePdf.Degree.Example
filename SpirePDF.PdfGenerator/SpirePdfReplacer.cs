@@ -56,7 +56,6 @@ namespace SpirePdf.PdfGenerator
                     }
 
                     textBoxField.Flatten = true;
-                    textBoxField.Size = new System.Drawing.SizeF(564f, textBoxField.Size.Height);
                 }
             }
 
